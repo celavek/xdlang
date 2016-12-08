@@ -25,67 +25,83 @@
   "exercises": [
     {
       "slug": "hello-world",
-      "difficulty": 1
+      "difficulty": 1,
+      "topics": []
     },
     {
       "slug": "gigasecond",
-      "difficulty": 1
+      "difficulty": 1,
+      "topics": []
     },
     {
       "slug": "rna-transcription",
-      "difficulty": 2
+      "difficulty": 2,
+      "topics": []
     },
     {
       "slug": "raindrops",
-      "difficulty": 1
+      "difficulty": 1,
+      "topics": []
     },
     {
       "slug": "bob",
-      "difficulty": 2
+      "difficulty": 2,
+      "topics": []
     },
     {
       "slug": "etl",
-      "difficulty": 2
+      "difficulty": 2,
+      "topics": []
     },
     {
       "slug": "hamming",
-      "difficulty": 2
+      "difficulty": 2,
+      "topics": []
     },
     {
       "slug": "nucleotide-count",
-      "difficulty": 3
+      "difficulty": 3,
+      "topics": []
     },
     {
       "slug": "robot-name",
-      "difficulty": 3
+      "difficulty": 3,
+      "topics": []
     },
     {
       "slug": "difference-of-squares",
-      "difficulty": 2
+      "difficulty": 2,
+      "topics": []
     },
     {
       "slug": "roman-numerals",
-      "difficulty": 3
+      "difficulty": 3,
+      "topics": []
     },
     {
       "slug": "series",
-      "difficulty": 3
+      "difficulty": 3,
+      "topics": []
     },
     {
       "slug": "triangle",
-      "difficulty": 2
+      "difficulty": 2,
+      "topics": []
     },
     {
       "slug": "crypto-square",
-      "difficulty": 3
+      "difficulty": 3,
+      "topics": []
     },
     {
       "slug": "circular-buffer",
-      "difficulty": 4
+      "difficulty": 4,
+      "topics": []
     },
     {
       "slug": "pangram",
-      "difficulty": 1
+      "difficulty": 1,
+      "topics": []
     }
   ],
   "deprecated": [
