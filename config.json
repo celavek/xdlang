@@ -25,138 +25,67 @@
   "exercises": [
     {
       "slug": "hello-world",
-      "difficulty": 1,
-      "topics": [
-        "language basics"
-      ]
+      "difficulty": 1
     },
     {
       "slug": "gigasecond",
-      "difficulty": 1,
-      "topics": [
-        "language basics",
-        "time"
-      ]
+      "difficulty": 1
     },
     {
       "slug": "rna-transcription",
-      "difficulty": 2,
-      "topics": [
-        "string manipulation",
-        "error handling",
-        "control-flow (foreach)"
-      ]
+      "difficulty": 2
     },
     {
       "slug": "raindrops",
-      "difficulty": 1,
-      "topics": [
-        "language basics",
-        "control-flow (if-statements)"
-      ]
+      "difficulty": 1
     },
     {
       "slug": "bob",
-      "difficulty": 2,
-      "topics": [
-        "string manipulation",
-        "control-flow (if-statements)"
-      ]
+      "difficulty": 2
     },
     {
       "slug": "etl",
-      "difficulty": 2,
-      "topics": [
-        "string manipulation",
-        "control-flow (foreach)",
-        "associative arrays"
-      ]
+      "difficulty": 2
     },
     {
       "slug": "hamming",
-      "difficulty": 2,
-      "topics": [
-        "error handling",
-        "control-flow (foreach)"
-      ]
+      "difficulty": 2
     },
     {
       "slug": "nucleotide-count",
-      "difficulty": 3,
-      "topics": [
-        "classes",
-        "parsing",
-        "associative arrays"
-      ]
+      "difficulty": 3
     },
     {
       "slug": "robot-name",
-      "difficulty": 3,
-      "topics": [
-        "classes",
-        "random numbers"
-      ]
+      "difficulty": 3
     },
     {
       "slug": "difference-of-squares",
-      "difficulty": 2,
-      "topics": [
-        "control-flow (foreach)",
-        "template metaprogramming",
-        "functional",
-        "algorithms"
-      ]
+      "difficulty": 2
     },
     {
       "slug": "roman-numerals",
-      "difficulty": 3,
-      "topics": [
-        "string manipulation",
-        "conversions",
-        "functional"
-      ]
+      "difficulty": 3
     },
     {
       "slug": "series",
-      "difficulty": 3,
-      "topics": [
-        "string manipulation",
-        "arrays"
-      ]
+      "difficulty": 3
     },
     {
       "slug": "triangle",
-      "difficulty": 2,
-      "topics": [
-        "language basics",
-        "control-flow (if-statements)"
-      ]
+      "difficulty": 2
     },
     {
       "slug": "crypto-square",
-      "difficulty": 3,
-      "topics": [
-        "string manipulation",
-        "classes",
-        "algorithms"
-      ]
+      "difficulty": 3
     },
     {
       "slug": "circular-buffer",
-      "difficulty": 4,
-      "topics": [
-        "class templates",
-        "data-structures"
-      ]
+      "difficulty": 4
     },
     {
       "slug": "pangram",
-      "difficulty": 1,
-      "topics": [
-        "language basics",
-        "string manipulation",
-        "control-flow"
-      ]
+      "difficulty": 1
     }
   ],
   "deprecated": [
